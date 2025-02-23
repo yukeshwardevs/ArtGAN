@@ -22,7 +22,7 @@ This project implements a CycleGAN model to transform real images into artistic 
 - **Training Time**: Varies based on GPU availability
 - **Batch Size**: 32
 
-Sample output:
+## Sample output:
 
 ![image](https://github.com/user-attachments/assets/5cd0ed92-423d-4a10-a631-f4a5e7f1dfd9)
 
