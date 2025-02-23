@@ -23,6 +23,7 @@ This project implements a CycleGAN model to transform real images into artistic 
 - **Batch Size**: 32
 
 Sample output:
+
 ![image](https://github.com/user-attachments/assets/5cd0ed92-423d-4a10-a631-f4a5e7f1dfd9)
 
 ![image](https://github.com/user-attachments/assets/4ef7cd83-0893-43ef-b7f0-33dacd66cd92)
